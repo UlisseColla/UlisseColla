@@ -2,7 +2,7 @@
 
 My name is Ulisse Colla.
 
-I'm currently working as a Mobile Developer, mainly using **Kotlin** and then also with **React Native**, and looking for a job in ***Paris***.
+I'm currently working as a Mobile Developer, mainly using **Kotlin** and **React Native**, and looking for a job in ***Paris***.
 I discovered programming in 2021 and fell in love with it instantly.
 
 After an introduction through a Full Stack Bootcamp (on Udemy) and a deeper dive into Web Development with another Bootcamp (with Aulab), I found what truly sparks and fuels my passion today: **low-level programming**.
@@ -14,7 +14,7 @@ The most important skill I developed at the 42 school is the process of sitting 
 
 I am well aware that LLMs have gotten (and keep getting) impressively good at writing code, but over time, I found that, for me, this is still the best method for developing a strong and deep grasp of the technology that I am using. The ability to build complex systems by hand and the feeling of having solved a problem myself are irreplaceable, and what made me fall in love with programming in the first place.
 
-This being said, I also recognize that LLMs are an incredible technology and I use them regularly in my work and to study topics I want to dive into. They are here to stay and learning to use them properly and efficiently is a skill that every developer nowadays should have, without forgetting though that those who have the strongest foundations will build better software.
+This being said, I also recognize that LLMs are an incredible technology and I use them regularly in my work and to study topics I want to dive into. They are here to stay and learning to use them properly and efficiently is a skill that every developer nowadays should have, without forgetting that those who have the strongest foundations will build better software.
 
 If I sparked your interest and you would like to have a chat, you can contact me here, on Linkedin or at ulisse.colla@protonmail.com.
 
